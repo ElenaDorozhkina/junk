@@ -1,0 +1,11 @@
+.block1, .block2, .block3, .block4 {
+    float: left;
+    width :50%;
+    border: 1px solid black;
+    padding: 18px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: aqua;
+}
